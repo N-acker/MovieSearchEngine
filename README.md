@@ -52,6 +52,8 @@ A responsive web application that queries The Movie Database (TMDb) API to displ
 
 2. **Open `index.html`** in any modern browser.
 
+### OR check out the link: https://moviesearcheng.netlify.app/
+
 ---
 
 ## 📋 API Note:
